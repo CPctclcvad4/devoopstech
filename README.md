@@ -1,0 +1,2 @@
+# devoopstech
+ purpose of pratical
